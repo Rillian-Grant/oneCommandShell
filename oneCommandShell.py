@@ -2,7 +2,7 @@
 
 # OneCommandShell
 import os
-command = input ("Enter command to use as the : ")
+command = input ("Enter command to use as the prefix: ")
 
 while (1):
     entry = input (command + "> ")
