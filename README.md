@@ -21,6 +21,6 @@ Now anything you enter will be prefixed by docker and a space.
 
 # Platforms
 
-Linux (Tested)
-OSX
+Linux (Tested),
+OSX and
 Windows (You will need to install Python.)
