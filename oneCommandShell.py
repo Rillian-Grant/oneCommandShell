@@ -2,7 +2,7 @@
 
 # OneCommandShell
 import os
-command = input ("Enter the command: ")
+command = input ("Enter command to use as the : ")
 
 while (1):
     entry = input (command + "> ")
