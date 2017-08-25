@@ -8,13 +8,18 @@ If you use docker a lot you will no doubt get sick of typing docker at the start
 
 ## How to use
 
-Download the oneCommandShell.py file, make it executable with: "chmod u+x oneCommandShell.py" and run it.
+Download the oneCommandShell.py file, make it executable with: '''chmod u+x oneCommandShell.py''' and run it.
 You will see a prompt looking like this:
 
+'''
 Enter command to use as prefix:
+'''
+
 Enter your command, for example docker and you will see a prompt like this:
 
+'''
 docker>
+'''
 
 Now anything you enter will be prefixed by docker and a space.
 
