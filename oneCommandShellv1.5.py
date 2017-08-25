@@ -12,7 +12,7 @@ if (len(sys.argv) > 1):
     for item in range(2,len(sys.argv)):
         command = command + " " + sys.argv[item]
 else:
-    command = input ("Enter the command: ")
+    command = input ("Enter the command prefix: ")
 
     
 # The main loop
