@@ -8,13 +8,22 @@ If you use docker a lot you will no doubt get sick of typing docker at the start
 
 ## How to use
 
-Download the oneCommandShell.py file, make it executable with: "chmod u+x oneCommandShell.py" and run it.
-You will see a prompt looking like this:
+Download the oneCommandShell.py file and make it executable with:
 
-Enter command to use as prefix:
-Enter your command, for example docker and you will see a prompt like this:
+> chmod u+x oneCommandShell.py
 
-docker>
+Now you can run the file. It takes one argument: oneCommandShell.py \[command prefix]
+If you run it with no argument you will see a prompt looking like this:
+
+
+> Enter command to use as prefix:
+
+
+Now you will see a prompt like this:
+
+
+> the-prefix-you-entered>
+
 
 Now anything you enter will be prefixed by docker and a space.
 
